@@ -16,5 +16,7 @@ public class Sum {
 
         System.out.println("합계는 " + (x + y) + "입니다.");          //합계값 구하기
         System.out.println("평균은 " + (x + y) / 2 + "입니다.");      //평균값 구하기
+
+        System.out.println("");
     }
 }
